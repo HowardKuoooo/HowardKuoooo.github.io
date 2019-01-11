@@ -1,0 +1,36 @@
+/*CSS Styles*/
+    h1 {
+        background-color: goldenrod;
+        display: flex;
+        justify-content: center;
+        font-family: "Comic Sans MS", cursive, sans-serif ;
+    
+    }
+
+    h2{
+        background-color: goldenrod;
+        display: flex;
+        justify-content: center;
+        font-family: "Comic Sans MS", cursive, sans-serif ;
+    }
+    img{
+        float:right;
+        width:300px;
+        height:340px;
+    
+    }
+    div#wrapper{
+        width:940px;
+        margin:0 auto 0 auto;
+        background-color: gold;
+        padding: 20px 20px 20px 20px;
+    }
+    
+    footer {
+      display: flex;
+      justify-content: center;
+    }
+
+    p {
+      font-family: Tahoma, Geneva, sans-serif;
+    }
