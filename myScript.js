@@ -1,5 +1,5 @@
 function myFunction() {
- var today = new Date();   
+                    var today = new Date();   
                     var today = new Date();
                     var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
                     var today = new Date();
@@ -9,4 +9,16 @@ function myFunction() {
                     var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
                     var dateTime = date+' '+time;
                     return dateTime;
+}
+function alertAndLogDate(){
+    
+
+    var date = myFunction();
+    
+
+    alert(Date());
+    
+
+    console.log(Date());
+
 }
